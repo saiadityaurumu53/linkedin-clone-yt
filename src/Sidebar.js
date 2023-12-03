@@ -20,14 +20,14 @@ function Sidebar() {
             <img src='https://wallpapers.com/images/hd/technology-linkedin-background-dce01jsbpnn0z2ej.jpg' alt='' />
             <Avatar className='sidebar__avatar' />
             <h2>Sai Aditya Urumu</h2>
-            <h4>saiadityaurumu53@gmail.com</h4>
+            <h4>surumu@asu.edu</h4>
         </div>
 
         <div className='sidebar__stats'>
 
             <div className='sidebar__stat'>
                 <p>Who viewed you</p>
-                <p className='sidebar__statNumber'>143</p>
+                <p className="sidebar__statNumber">143</p>
             </div>
 
             <div className='sidebar__stat'>
@@ -54,4 +54,4 @@ function Sidebar() {
   )
 }
 
-export default Sidebar
+export default Sidebar;

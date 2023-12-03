@@ -4,7 +4,7 @@ import { Counter } from './features/counter/Counter';
 import './App.css';
 import Header from './Header';
 import Sidebar from './Sidebar';
-import { Feed } from '@mui/icons-material';
+import Feed from './Feed';
 
 function App() {
   return (
